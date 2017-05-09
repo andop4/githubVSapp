@@ -11,6 +11,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 
 	cout << "Hello World" << endl;
+	cout << "Ikinci degisiklik" << endl;
 	return 0;
 }
 
